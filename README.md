@@ -18,7 +18,7 @@
 
 * Twitter: [@aycefr](https://twitter.com/aycefr)
 * Github: [@ayce45](https://github.com/ayce45)
-* Site: [Ayce](ayce.fr)
+* Site: [Ayce](https://ayce.fr)
 
 ## Show your support
 
